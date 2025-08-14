@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in **Universidad Catolica de Colombia**
 
-- 🌱 I’m currently learning **Git, JavaScript, C++.**
+- 🌱 I’m currently learning **Git, JavaScript, C++, phyton.**
 
 - 📫 How to reach me **jstarazona55@ucatolica.edu.co**
 
